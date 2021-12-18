@@ -1,2 +1,2 @@
 # PortMaster-Hosting
-Hosts releases and other large files for portmaster
+Hosts large files for portmaster build
